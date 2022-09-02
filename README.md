@@ -1,6 +1,6 @@
 # MeuIP
 #
-# Voce pode Criar um GPO para mapear o arquivo em todos os computadores da sua rede.
+# Voce pode Criar uma GPO para mapear o arquivo em todos os computadores da sua rede.
 #
 
 Interface básica para os usuários verificarem o ip do computador

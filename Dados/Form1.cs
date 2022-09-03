@@ -2,7 +2,7 @@ using System.Net;
 using System.Runtime.InteropServices;
 using System.Net.NetworkInformation;
 
-
+const string var99 = "aaa";
 namespace Dados
 {
     public partial class Form1 : Form
